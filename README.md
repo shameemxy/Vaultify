@@ -90,4 +90,4 @@ Build for production	pnpm build
 Lint code	pnpm lint
 🏁 License
 
-MIT License © 2025 — Built with ❤️ by Shameem Muhammed Kadambu.
+MIT License © 2025 — Built with ❤️ by Shameem Muhammed.
